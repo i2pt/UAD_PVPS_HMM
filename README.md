@@ -7,6 +7,6 @@
 
 ## Description
 
-- `MLEestimate.R` - MLE estimates of DLM parameters using (`dlm`)[https://www.rdocumentation.org/packages/dlm/versions/1.1-5/topics/dlm] package of R
+- `MLEestimate.R` - MLE estimates of DLM parameters using [`dlm`](https://www.rdocumentation.org/packages/dlm/versions/1.1-5/topics/dlm) package of R
 - `Kalman_Filter.m` - Kalman filter on DLM using estimates
 - `HMM_GMM.m` - HMM based state estimation assuming Gaussian distribution
